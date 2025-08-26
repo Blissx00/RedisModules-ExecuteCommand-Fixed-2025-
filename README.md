@@ -1,3 +1,6 @@
+// Fixed the original repo at https://github.com/n0b0dyCN/RedisModules-ExecuteCommand the src/module.so , fixed errors and warnings that causes make command to fail!
+
+
 # RedisModules-ExecuteCommand
 
 ## Quick Start Guide
